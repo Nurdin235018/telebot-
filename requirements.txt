@@ -1,0 +1,6 @@
+pytelegrambotapi
+python-decouple
+requests 
+beautifulsoup4 
+lxml 
+tqdm 
